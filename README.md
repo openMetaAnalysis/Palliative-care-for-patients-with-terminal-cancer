@@ -3,7 +3,7 @@ Palliative care for patients with terminal cancer
 
 This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
 
-This meta-analysis suggests that the clinical intervention *is* effective. The [standardized effect size](http://handbook.cochrane.org/chapter_12/12_6_2_re_expressing_smds_using_rules_of_thumb_for_effect_sizes.htm) is 'small'.
+This meta-analysis suggests that the clinical intervention *is* effective. The [standardized mean difference](http://handbook.cochrane.org/chapter_12/12_6_2_re_expressing_smds_using_rules_of_thumb_for_effect_sizes.htm) is 'small to moderate'.
 
 Details of the studies included are in the [evidence table](../../wiki/Evidence-Table).
 

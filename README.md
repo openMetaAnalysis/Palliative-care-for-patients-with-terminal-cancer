@@ -1,4 +1,4 @@
-Palliative care for patients with terminal cancer
+Palliative care for improving qualit of life for patients with terminal cancer
 =================================
 A data-only living systematic review
 
@@ -29,5 +29,13 @@ None available.
 2. Temel JS, Greer JA, Muzikansky A, Gallagher ER, Admane S, Jackson VA, Dahlin CM, Blinderman CD, Jacobsen J, Pirl WF, Billings JA, Lynch TJ. Early palliative care for patients with metastatic non-small-cell lung cancer. N Engl J Med. 2010  Aug 19;363(8):733-42. PMID: [20818875](http://pubmed.gov/20818875).
 3. Bakitas M, Lyons KD, Hegel MT, Balan S, Brokaw FC, Seville J, Hull JG, Li Z, Tosteson TD, Byock IR, Ahles TA. Effects of a palliative care intervention on clinical outcomes in patients with advanced cancer: the Project ENABLE II randomized controlled trial. JAMA. 2009 Aug 19;302(7):741-9. PMID: [19690306](http://pubmed.gov/19690306).
 
+#### New trial(s) undergoing review
+1. El-Jawahri A, LeBlanc T, VanDusen H, Traeger L, Greer JA, Pirl WF, et al. Effect of Inpatient Palliative Care on Quality of Life 2 Weeks After Hematopoietic Stem Cell Transplantation: A Randomized Clinical Trial. JAMA. 2016 Nov 22;316(20):2094-2103. PMID: [27893130](http://pubmed.gov/27893130)
+2. Carson SS, Cox CE, Wallenstein S, Hanson LC, Danis M, Tulsky JA, Chai E, Nelson JE. Effect of Palliative Care-Led Meetings for Families of Patients With Chronic Critical Illness: A Randomized Clinical Trial. JAMA. 2016 Jul 5;316(1):51-62. PMID: [27380343](http://pubmed.gov/27380343)
+
 #### Trials included in the review above
 Not applicable.
+
+-------------------------------
+[Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
+[Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)

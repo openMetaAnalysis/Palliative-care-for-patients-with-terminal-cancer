@@ -32,6 +32,9 @@ None available.
 #### New trial(s) undergoing review
 1. El-Jawahri A, LeBlanc T, VanDusen H, Traeger L, Greer JA, Pirl WF, et al. Effect of Inpatient Palliative Care on Quality of Life 2 Weeks After Hematopoietic Stem Cell Transplantation: A Randomized Clinical Trial. JAMA. 2016 Nov 22;316(20):2094-2103. PMID: [27893130](http://pubmed.gov/27893130)
 2. Carson SS, Cox CE, Wallenstein S, Hanson LC, Danis M, Tulsky JA, Chai E, Nelson JE. Effect of Palliative Care-Led Meetings for Families of Patients With Chronic Critical Illness: A Randomized Clinical Trial. JAMA. 2016 Jul 5;316(1):51-62. PMID: [27380343](http://pubmed.gov/27380343)
+3. Gade G, Venohr I, Conner D, McGrady K, Beane J, Richardson RH, et al. Impact of an inpatient palliative care team: a randomized control trial. J Palliat Med. 2008 Mar;11(2):180-90. PMID: [18333732](http://pubmed.gov/18333732)
+4. O'Mahony S, Blank AE, Zallman L, Selwyn PA. The benefits of a hospital-based inpatient palliative care consultation service: preliminary outcome data. J Palliat Med. 2005 Oct;8(5):1033-9. PMID: [16238516](http://pubmed.gov/16238516)
+5. Brumley R, Enguidanos S, Jamison P, Seitz R, Morgenstern N, Saito S, McIlwane J, Hillary K, Gonzalez J. Increased satisfaction with care and lower costs: results of a randomized trial of in-home palliative care. J Am Geriatr Soc. 2007 Jul;55(7):993-1000. PMID: [17608870](http://pubmed.gov/17608870)
 
 #### Trials included in the review above
 Not applicable.

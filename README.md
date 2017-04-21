@@ -16,7 +16,7 @@ Palliative care for improving quality of life for patients with terminal cancer
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Palliative-care-for-patients-with-terminal-cancer/master/forest-plots/Outcome-Primary.png "Principle results")
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Palliative-care-for-patients-with-terminal-cancer/master/files/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------

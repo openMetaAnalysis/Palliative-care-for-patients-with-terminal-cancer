@@ -1,14 +1,13 @@
 Palliative care for improving quality of life for patients with terminal cancer
 =================================
-A data-only living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. The [standardized mean difference](http://handbook.cochrane.org/chapter_12/12_6_2_re_expressing_smds_using_rules_of_thumb_for_effect_sizes.htm) is 'small to moderate'.
 
-[Keep current with this topic](../master/files/searching/Keep-up.md) (not available)
+[Keep current with this topic](../master/files/searching/Keep-up.md) (under construction)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
-* [Evidence search](../master/files/searching/evidence-search.md) for this review
+* [Evidence search](../master/files/searching/evidence-search.md) for this review (under construction)
 
 **Results:** Details of the studies included are in the:
 * [Description of studies (PICO table)](../master/files/study-details/pico-table.md) (under construction)

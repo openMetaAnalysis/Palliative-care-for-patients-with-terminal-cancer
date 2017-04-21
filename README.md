@@ -29,7 +29,7 @@ Caregiver Outcomes: A Systematic Review and Meta-analysis. JAMA. 2016 Nov 22;316
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above 
-1. Zimmermann C, Swami N, Krzyzanowska M, Hannon B, Leighl N, Oza A, Moore M, Rydall A, Rodin G, Tannock I, Donner A, Lo C. Early palliative care for patients  with advanced cancer: a cluster-randomised controlled trial. Lancet. 2014 May 17;383(9930):1721-30. MID: [24559581](http://pubmed.gov/24559581).
+1. Zimmermann C, Swami N, Krzyzanowska M, Hannon B, Leighl N, Oza A, Moore M, Rydall A, Rodin G, Tannock I, Donner A, Lo C. Early palliative care for patients  with advanced cancer: a cluster-randomised controlled trial. Lancet. 2014 May 17;383(9930):1721-30. PMID: [24559581](http://pubmed.gov/24559581).
 2. Temel JS, Greer JA, Muzikansky A, Gallagher ER, Admane S, Jackson VA, Dahlin CM, Blinderman CD, Jacobsen J, Pirl WF, Billings JA, Lynch TJ. Early palliative care for patients with metastatic non-small-cell lung cancer. N Engl J Med. 2010  Aug 19;363(8):733-42. PMID: [20818875](http://pubmed.gov/20818875).
 3. Bakitas M, Lyons KD, Hegel MT, Balan S, Brokaw FC, Seville J, Hull JG, Li Z, Tosteson TD, Byock IR, Ahles TA. Effects of a palliative care intervention on clinical outcomes in patients with advanced cancer: the Project ENABLE II randomized controlled trial. JAMA. 2009 Aug 19;302(7):741-9. PMID: [19690306](http://pubmed.gov/19690306).
 
